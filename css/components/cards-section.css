@@ -1,0 +1,43 @@
+.cards-section {
+  color: #F9F9F2;
+  margin: auto;
+  max-width: 800px;
+  padding-bottom: 40px;
+}
+
+.cards-section .section-title {
+  text-align: center;
+}
+
+.cards-section .section-title h1 {
+  margin: 0;
+}
+
+.cards-section .section-title p {
+  margin: 0;
+}
+
+.cards-section .cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  padding-top: 40px;
+}
+
+.cards-section .cards .card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(17,7,8,0.1);
+  text-align: center;
+  padding: 20px;
+  border: 0.5px solid rgba(17,7,8,0.2);
+}
+
+.cards-section .cards .card h1 {
+  font-size: 64px;
+  margin: 0;
+}
+
+.cards-section .cards .card p {
+  color: gray;
+}

@@ -1,0 +1,25 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+@import url("components/hero.css");
+@import url("components/cards-section.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  background-color: rgb(17,7,8);
+  margin: 0;
+  font-family: 'Familjen Grotesk', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Familjen Grotesk', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */

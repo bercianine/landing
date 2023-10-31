@@ -1,0 +1,38 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  color: #F9F9F2;
+}
+
+.hero .hero-content {
+  margin: auto;
+  line-height: 8px;
+}
+
+.hero .hero-content p {
+  font-size: 20px;
+}
+
+.hero .hero-content .title {
+  display: flex;
+  align-items: baseline;
+}
+
+.hero .hero-content .title h2 {
+  font-weight: 100;
+  font-size: 20px;
+}
+
+.btn-primary {
+  display: inline-block;
+  margin-top: 16px;
+  background-color: #F9F9F2;
+  padding: 16px 24px;
+  border-radius: 50px;
+  color: #110708;
+}
+
+.btn-primary:hover {
+  background-color: #e7e7de;
+}
